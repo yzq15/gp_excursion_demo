@@ -1,5 +1,6 @@
 html {
     background-color: black;
+    text-align: center;
 }
 
 h1, h2, p {
@@ -12,10 +13,8 @@ h1, h2 {
 
 ._link {
     color: aquamarine;
-}
-
-.centered {
-    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .align_right {
