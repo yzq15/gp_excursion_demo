@@ -1,0 +1,25 @@
+html {
+    background-color: black;
+}
+
+h1, h2, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: white;
+}
+
+._link {
+    color: aquamarine;
+}
+
+.centered {
+    text-align: center;
+}
+
+.align_right {
+    text-align: right;
+    padding-top: 100%;
+    color: gray;
+}
